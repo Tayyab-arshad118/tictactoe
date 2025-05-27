@@ -19,7 +19,7 @@ This project is a **browser-based implementation**, created using **HTML, CSS, a
 
 ## 📸 Screenshot
 
-![Tic Tac Toe Screenshot](screenshots/screenshot.png)
+![Screenshot](screenshots/screenshot1.png)
 
 ---
 
