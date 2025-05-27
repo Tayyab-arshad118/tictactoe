@@ -19,7 +19,7 @@ This project is a **browser-based implementation**, created using **HTML, CSS, a
 
 ## 📸 Screenshot
 
-![Screenshot](screenshots/screenshot1.png)
+![Screenshot](screenshots/Screenshot1.png)
 
 ---
 
