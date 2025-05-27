@@ -31,6 +31,7 @@ const showwinner=(winner) =>{
 const reset = ()=>{
         for (const box of boxes) {
             box.innerText="";
+            turn0=true;
             box.disabled=false;
             msg.classList.add("hide")            
         }
